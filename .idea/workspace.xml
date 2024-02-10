@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bdbf23f-fb0a-469f-9fdf-46e7f4c4cd22" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01 - Python - General/class001-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01 - Python - General/class001-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01 - Python - General/class001-Exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01 - Python - General/class001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0001.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0002.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0003.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0004.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0005.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0006.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0007.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0008.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0009.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0010.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0011.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0012.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0013.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0014.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0016.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0017.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0018.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/0019.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/Exercicios/0019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01/entrada01.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/class01/entrada01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01/entrada02.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/class01/entrada02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01/entrada03.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/class01/entrada03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01/entrada04.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/class01/entrada04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01/entrada05.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/class01/entrada05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01/entrada06.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/class01/entrada06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/002-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/class02/002-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/class03-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/class03/class03-01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/class03-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/class03/class03-02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/class03-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/00 - Poo-Python-Complete/class03/class03-03.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2WHikLbpRhetQaIvJfhaGegbJfR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.class001-01.executor": "Run",
+    "Python.class001-02.executor": "Run",
+    "Python.class001-Exercicio.executor": "Run",
+    "Python.class001-Exercicioo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/JDsou/OneDrive/Área de Trabalho/cursos/artificial-intelligence-classes/01 - Python - General",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JDsou\OneDrive\Área de Trabalho\cursos\artificial-intelligence-classes\01 - Python - General" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bdbf23f-fb0a-469f-9fdf-46e7f4c4cd22" name="Changes" comment="" />
+      <created>1696396047673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696396047673</updated>
+      <workItem from="1696396048726" duration="2049000" />
+      <workItem from="1697317805775" duration="187000" />
+      <workItem from="1697318014986" duration="149000" />
+      <workItem from="1704758528634" duration="746000" />
+      <workItem from="1704761257801" duration="637000" />
+      <workItem from="1704762262478" duration="608000" />
+      <workItem from="1707523934146" duration="2210000" />
+      <workItem from="1707526419785" duration="178000" />
+      <workItem from="1707526642935" duration="3548000" />
+      <workItem from="1707531036343" duration="7768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/artificial_intelligence_classes$class001_02.coverage" NAME="class001-02 Coverage Results" MODIFIED="1707540347873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Python - General" />
+    <SUITE FILE_PATH="coverage/artificial_intelligence_classes$class001.coverage" NAME="class001 Coverage Results" MODIFIED="1707525999771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Python - General" />
+    <SUITE FILE_PATH="coverage/artificial_intelligence_classes$class001_01.coverage" NAME="class001-01 Coverage Results" MODIFIED="1707538599561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Python - General" />
+    <SUITE FILE_PATH="coverage/artificial_intelligence_classes$class001_Exercicioo.coverage" NAME="class001-Exercicioo Coverage Results" MODIFIED="1707543739691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Python - General" />
+    <SUITE FILE_PATH="coverage/artificial_intelligence_classes$entrada01.coverage" NAME="entrada01 Coverage Results" MODIFIED="1696397506141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00 - Poo-Python-Complete/class01" />
+    <SUITE FILE_PATH="coverage/artificial_intelligence_classes$class001_Exercicio.coverage" NAME="class001-Exercicio Coverage Results" MODIFIED="1707543870665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Python - General" />
+  </component>
+</project>
